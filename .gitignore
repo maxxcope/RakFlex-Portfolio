@@ -1,0 +1,23 @@
+# Exclude editing files, raw media, and local review material.
+.DS_Store
+._*
+*.prproj
+*.aep
+*.psd
+*.cfa
+*.pek
+*.cr2
+*.CR2
+*.xmp
+*.XMP
+*.mp4
+*.MP4
+*.mov
+*.MOV
+*.mpeg
+*.mp3
+*.m4a
+*Auto-Save*/
+*Previews*/
+local-review/
+private/
